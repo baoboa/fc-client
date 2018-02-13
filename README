@@ -12,7 +12,7 @@ Fleet Commander consists on two components:
 - and a client side daemon that runs on every host of the network.
 
 Fleet Commander relies on libvirt and KVM to generate the profile data
-dinamically from a template VM running the same environment as the rest of the
+dynamically from a template VM running the same environment as the rest of the
 network.
 
 SETUP
